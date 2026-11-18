@@ -24,8 +24,4 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=ffffff">
   <img src="https://img.shields.io/badge/-Rust-9A7B63?style=flat&logo=Rust&logoColor=ffffff">
 
-
-  <h3>My GitHub Activity 🏆</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=zzmkxd&theme=flat&no-frame=true&margin-w=10" alt="Trophy">
-
 </div>
