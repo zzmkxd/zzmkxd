@@ -24,13 +24,6 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=ffffff">
   <img src="https://img.shields.io/badge/-Rust-9A7B63?style=flat&logo=Rust&logoColor=ffffff">
 
-  <h3>Things I don't like...</h3>
-  <ul>
-    <li>Code that doesn't compile ☠️</li>
-    <li>Slow Wi-Fi 🔴</li>
-  </ul>
-
-  <img src="https://wakatime.com/badge/user/your_username.svg" alt="WakaTime Badge">
 
   <h3>My GitHub Activity 🏆</h3>
   <img src="https://github-profile-trophy.vercel.app/?username=zzmkxd&theme=flat&no-frame=true&margin-w=10" alt="Trophy">
